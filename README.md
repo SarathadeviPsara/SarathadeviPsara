@@ -10,20 +10,6 @@ I bring strong analytical abilities and an eagerness to apply **modern AI techno
 
 ---
 
-## 🎓 Education
-- **B.Tech – Artificial Intelligence & Data Science**  
-  National Engineering College, Kovilpatti  
-  *Nov 2022 – May 2026*  
-  **CGPA:** 7.5  
-
-- **HSC** – Counian Matriculation Hr Sec School  
-  **72.2%**
-
-- **SSLC** – Counian Matriculation Hr Sec School  
-  **80.6%**
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:**  
@@ -44,7 +30,21 @@ I bring strong analytical abilities and an eagerness to apply **modern AI techno
 
 **Tools & Concepts:**  
 - REST API Development  
-- Database Design & Queries  
+- Database Design & Queries
+
+---
+
+## 🎓 Education
+- **B.Tech – Artificial Intelligence & Data Science**  
+  National Engineering College, Kovilpatti  
+  *Nov 2022 – May 2026*  
+  **CGPA:** 7.5  
+
+- **HSC** – Counian Matriculation Hr Sec School  
+  **72.2%**
+
+- **SSLC** – Counian Matriculation Hr Sec School  
+  **80.6%**
 
 ---
 
